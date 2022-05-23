@@ -168,6 +168,10 @@ button {
     html {
       font-size: 57.5%;
     }
+    
+    .restaurant-name {
+        font-size: 100px;
+    }
   
     .home img {
       width: 80%;
